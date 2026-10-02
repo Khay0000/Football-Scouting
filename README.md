@@ -12,4 +12,4 @@ elite players but are likely undervalued by the market?
 Python, Pandas, scikit-learn, Power BI/Tableau
 
 ## Status
-Week 1: pulling data
+Week 2 complete: data cleaned and merged
