@@ -1,0 +1,10 @@
+{
+  "name": "Football Pitch",
+  "dataColors": ["#1B7F4B", "#F2B705", "#1F6FB2", "#D64545", "#7A5C99", "#0B3D2E", "#8BC34A", "#FF8F3F"],
+  "background": "#FFFFFF",
+  "foreground": "#12261C",
+  "tableAccent": "#1B7F4B",
+  "good": "#1B7F4B",
+  "neutral": "#F2B705",
+  "bad": "#D64545"
+}
