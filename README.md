@@ -6,7 +6,7 @@ An end-to-end data analytics project that scores attacking and creative midfield
 Which young midfielders in the top 5 European leagues perform like elite players but are likely undervalued by the market?
 
 ## Dashboard
-![Dashboard](images/dashboard.png)
+![Final dashboard](images/final-dashboard.png)
 
 The Power BI file is `football_scouting.pbix`. It includes filters for season, league, age and minutes, a score vs market value chart, a top 15 ranking, a skill profile for a selected player, and a best-value table.
 
