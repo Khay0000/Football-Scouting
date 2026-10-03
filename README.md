@@ -11,9 +11,9 @@ Which young midfielders in the top 5 European leagues perform like elite players
 The Power BI file is `football_scouting.pbix`. It includes filters for season, league, age and minutes, a score vs market value chart, a top 15 ranking, a skill profile for a selected player, and a best-value table.
 
 ## Key findings
-- TODO: add 3 findings from your Best Value table, for example the names of the standout young players and what stands out about their scores and values.
-- TODO: one finding about the relationship between score and market value.
-
+- Among the highest-scoring players aged 24 or under in 2024, Ben Seghir (Monaco, age 20) scores 89.2 with a market value of about €28M, and Akliouche (Monaco, age 23) scores 91.2 at about €45M. Both offer high scores for a modest price.
+- Fermín López (Barcelona, age 22) scores 96.7 at about €50M, close to Musiala (Bayern Munich, age 22), who scores 95.5 at about €140M, nearly three times the value.
+- Score and market value are positively related but only loosely: Cole Palmer (Chelsea, age 23) is valued at about €120M with a score of 88.1, below Ben Seghir's 89.2 at roughly a quarter of the price.
 ## Data
 - **Understat**: player stats per season (xG, xA, shots, key passes, xGChain, xGBuildup) for the Premier League, La Liga, Bundesliga, Serie A and Ligue 1, seasons 2022-2024.
 - **Transfermarkt** (Kaggle dataset "Football Data from Transfermarkt"): date of birth and market value over time. These two files are large, so they are not in this repo. Download `players.csv` and `player_valuations.csv` from Kaggle and put them in `data/raw/`.
